@@ -1,1 +1,1 @@
-# DUO-Japanese
+# DUO Japanese
