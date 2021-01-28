@@ -10,7 +10,7 @@ Developed by the GA4GH Data Use and Researcher Identities (DURI) Work Stream to 
 
 To use the DUO in Japan, we localized the DUO codes of release 2020-02-03 into Japanese. The localized "duo_japanese" data will be incorporated as a Japanese label of each corresponding class in DUO.  Note that this is the first attempt of multilingualization of DUO codes. 
 
-## Contributors
+## GEM Japan DURI workstream group
 (*: co-lead)
 - Chisato Yamasaki* 
 - Soichi Ogishima*
