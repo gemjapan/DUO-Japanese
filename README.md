@@ -2,7 +2,7 @@
 
 The Data Use Ontology (DUO) is a suite of technical standards for sharing genomic and health related data developed/approved by the Global Alliance for Genomics and Health (GA4GH).
 
-[DUO](https://www.ga4gh.org/wp-content/uploads/DUO-WPFI-850x425-v3.png)
+![DUO](https://www.ga4gh.org/wp-content/uploads/DUO-WPFI-850x425-v3.png)
 
 Every institution uses unique language in their informed consent forms to describe the secondary use restrictions and conditions on their datasets. This means that each data access request must be manually evaluated against the data use letter that specifies how the dataset can be used. Consequently, Data Access Committees typically respond to such requests in two to six weeks, considerably slowing down the pace of research.
 
