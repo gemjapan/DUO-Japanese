@@ -14,13 +14,13 @@ To use the DUO in Japan, we localized the DUO codes of release 2020-02-03 into J
 (*: co-lead)
 - Chisato Yamasaki* 
 - Soichi Ogishima*
-- Satoshi Nagaie
 - Minae Kawashima
-- Chihiro Hata
-- Shuichi Kawashima
-- Yuichi Kodama
-- Mizuki Morita
 - Natsuko Yamamoto
+- Mizuki Morita
+- Satoshi Nagaie
+- Chihiro Hata
+- Yuichi Kodama
+- Shuichi Kawashima
 - Akio Nagano
 - Keiko Katsui
 - Takako Takai
