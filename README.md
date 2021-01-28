@@ -31,4 +31,4 @@ AMED (Japan Agency for Medical Research and Development)
 
 ## Contact
 
-gemj-duri-ws-contact @ googlegroups.com
+gemj-duri-ws-contact at googlegroups.com
