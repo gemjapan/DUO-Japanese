@@ -1,6 +1,6 @@
 # DUO Japanese
 
-The Data Use Ontology (DUO) is a suite of technical standards for sharing genomic and health related data developed/approved by the Global Alliance for Genomics and Health (GA4GH).
+The [Data Use Ontology (DUO)](https://github.com/EBISPOT/DUO) is a suite of technical standards for sharing genomic and health related data developed and approved by the [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/).
 
 ![DUO](https://www.ga4gh.org/wp-content/uploads/DUO-WPFI-850x425-v3.png)
 
@@ -24,3 +24,11 @@ To use the DUO in Japan, we localized the DUO codes of release 2020-02-03 into J
 - Akio Nagano
 - Keiko Katsui
 - Takako Takai
+
+## Funding
+
+AMED (Japan Agency for Medical Research and Development)
+
+## Contact
+
+gemj-duri-ws-contact@googlegroups.com
