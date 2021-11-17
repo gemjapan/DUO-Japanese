@@ -10,21 +10,6 @@ Developed by the GA4GH Data Use and Researcher Identities (DURI) Work Stream to 
 
 To use the DUO in Japan, [GEM Japan DURI workstream group](https://github.com/gemjapan/DURI) localized the DUO codes of release 2020-02-03 into Japanese. The localized DUO code will be incorporated as a Japanese label of each corresponding class in DUO.  Note that this is the first attempt of multilingualization of DUO codes. 
 
-## [GEM Japan](https://www.amed.go.jp/en/aboutus/collaboration/ga4gh_gem_japan.html) DURI workstream group
-(*: co-lead)
-- Chisato Yamasaki* 
-- Soichi Ogishima*
-- Minae Kawashima
-- Natsuko Yamamoto
-- Mizuki Morita
-- Satoshi Nagaie
-- Chihiro Hata
-- Yuichi Kodama
-- Shuichi Kawashima
-- Akio Nagano
-- Keiko Katsui
-- Takako Takai
-
 ## Funding
 
 AMED (Japan Agency for Medical Research and Development)
